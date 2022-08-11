@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services xmlns="http://schemas.haulmont.com/cuba/rest-services-v2.xsd">
+<service name="shedule_MobileService">
+    <method name="getStudent"/>
+    <method name="getShedule">
+        <param name="student"/>
+    </method>
+</service>
+</services>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
+    <menu id="application-shedule" insertBefore="administration" caption="mainMsg://menu_config.application-shedule">
+        <item screen="shedule_Student.browse" caption="mainMsg://menu_config.shedule_Student.browse"/>
+        <item screen="shedule_Shedule.browse" caption="mainMsg://menu_config.shedule_Shedule.browse"/>
+    </menu>
+</menu-config>

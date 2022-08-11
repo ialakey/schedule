@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<views xmlns="http://schemas.haulmont.com/cuba/view.xsd">
+
+    <view entity="shedule_Student" name="student.view" class="com.company.shedule.entity.Student">
+        <property name="lastName"/>
+        <property name="name"/>
+        <property name="firstName"/>
+        <property name="number"/>
+    </view>
+</views>
