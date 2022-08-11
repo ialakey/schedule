@@ -1,3 +1,3 @@
-# schedule
+# Schedule
 
 ## Create project from CUBA
